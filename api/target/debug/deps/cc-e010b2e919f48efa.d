@@ -1,0 +1,11 @@
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libcc-e010b2e919f48efa.rmeta: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libcc-e010b2e919f48efa.rlib: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/cc-e010b2e919f48efa.d: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs
+
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/lib.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/mod.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/windows/find_tools.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/command_helpers.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.86/src/tool.rs:

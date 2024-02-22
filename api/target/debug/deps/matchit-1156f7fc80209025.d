@@ -1,0 +1,11 @@
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libmatchit-1156f7fc80209025.rmeta: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libmatchit-1156f7fc80209025.rlib: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/matchit-1156f7fc80209025.d: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs
+
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/lib.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/error.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/params.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/router.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.3/src/tree.rs:
