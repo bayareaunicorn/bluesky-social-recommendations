@@ -1,0 +1,11 @@
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libubyte-ef4c00852348aee3.rmeta: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/libubyte-ef4c00852348aee3.rlib: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/scott/projects/development/bluesky-social-recommendations/api/target/debug/deps/ubyte-ef4c00852348aee3.d: /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs /Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs
+
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/lib.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/arithmetic.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/byte_unit.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/parse.rs:
+/Users/scott/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ubyte-0.10.4/src/ser_de.rs:
